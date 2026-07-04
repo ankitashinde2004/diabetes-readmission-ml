@@ -11,3 +11,6 @@ An end-to-end Python machine learning pipeline to identify high-risk diabetic pa
 ## Tech Stack Used
 * **Environment:** Google Colab / Jupyter Notebook
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn, Matplotlib, Seaborn
+
+* <img width="1084" height="584" alt="chart" src="https://github.com/user-attachments/assets/084ef4c5-a381-456a-935d-8fbfbc02af58" />
+
